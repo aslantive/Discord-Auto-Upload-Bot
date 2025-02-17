@@ -14,4 +14,8 @@ Make sure to fill in the `config.json` file with the required information. Here 
   "guildId": "YOUR_GUILD_ID"
 }
 
+Run in Terminal:
+npm install
+node index.js
+
 Need help? hit me up on discord @printsmoney
